@@ -4,7 +4,7 @@
       <div class="hero__content">
         <div class="hero__tags">
           <span class="hero__badge">Onlayn seminar</span>
-          <span class="hero__date">20-sentabr • 20:00</span>
+          <span class="hero__date">27-sentabr • 19:00</span>
         </div>
 
         <h1 class="hero__title">

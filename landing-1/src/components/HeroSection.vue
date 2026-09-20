@@ -4,7 +4,7 @@
       <div class="hero__content">
         <div class="hero__tags">
           <span class="hero__tag hero__tag--gold">BEPUL JONLI EFIR</span>
-          <span class="hero__tag">20-SENTABR • 20:00</span>
+          <span class="hero__tag">27-SENTABR • 19:00</span>
         </div>
 
         <h1 class="hero__title">

@@ -5,7 +5,7 @@
       <div class="hero-text">
         <div class="badge">ONLAYN SEMINAR</div>
 
-        <div class="datetime">20-SENTABR&nbsp;•&nbsp;20:00</div>
+        <div class="datetime">27-SENTABR&nbsp;•&nbsp;19:00</div>
 
         <h1 class="headline">
           PSORIAZ HAQIDA
